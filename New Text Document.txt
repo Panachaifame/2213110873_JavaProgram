@@ -1,0 +1,4 @@
+StudentID:2213110873
+Fullname:Panachai Lormongkhonkit
+AKA:Fame
+ClassDetail: String Methods and Defined Met
