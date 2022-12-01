@@ -1,4 +1,4 @@
-Student ID : 2213110873
-Fullname : Panachai Lormongkhonkit
+StudentID:2213110873
+Fullname:Panachai Lormongkhonkit
 AKA : Fame
-ClassDetail : Lab Sheet 3 : Control Statement & Confirm Dialog
+CalssDetail: Lab Sheet 4 : String Methods and Defined Met
