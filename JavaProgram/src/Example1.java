@@ -2,8 +2,7 @@ import javax.swing.*;
 
 public class Example1 {
 
-	public static void main(String[] args) {
-		String name = JOptionPane.showInputDialog("Input Full name");
+	public static void main(String[] args) C	String name = JOptionPane.showInputDialog("Input Full name");
 		int birthYear = Integer.parseInt(JOptionPane.showInputDialog("Input Birth year: "));
 		while (birthYear < 1998 || birthYear > 2018) {
 			birthYear = Integer.parseInt(JOptionPane.showInputDialog("Input Birth year: "));
