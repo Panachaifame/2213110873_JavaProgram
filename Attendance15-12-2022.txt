@@ -1,0 +1,5 @@
+Date:15-12-2022
+StudentID:2213110873
+Fullname:Panachai Lormongkhonkit
+AKA : Fame
+CalssDetail: Lab Sheet 6 : Array in Java
