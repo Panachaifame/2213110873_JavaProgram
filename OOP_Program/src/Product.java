@@ -26,4 +26,14 @@ public class Product {
 	public double calculate() {
 		return unit * price;
 	}
+	public String checkStatus() {
+		if (unit<5) {
+			return "LOW";
+		}
+		else if (unit>=5&&unit<50) {
+			return "NORMAL";
+		}
+		else 
+			return "HIGH";
+	}
 }
