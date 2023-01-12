@@ -6,14 +6,7 @@ public class Example602 {
 	static double itemPrice = 0;
 	static boolean vaildItem = false;
 	static int itemOrder = Integer.parseInt(JOptionPane.showInputDialog("Enter item number to order"));
-	
-	public static void main (String[] args) {
-	inputitem();
 }
+	
 
-	private static void inputitem() {
-		// TODO Auto-generated method stub
-		
-		
-	}
-	public static void 
+	
