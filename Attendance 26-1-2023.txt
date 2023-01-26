@@ -1,0 +1,5 @@
+Date:26-1-2023
+StudentID:2213110873
+Fullname:Panachai Lormongkhonkit
+AKA : Fame
+CalssDetail:  Lab Sheet 9 : Composition and Inheritance29303112
