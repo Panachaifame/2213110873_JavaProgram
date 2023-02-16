@@ -1,0 +1,5 @@
+Date:16-Feb-2023
+StudentID:2213110873
+Fullname:Panachai Lormongkhonkit
+AKA : Fame
+ClassDetail: File (Write / Read)
